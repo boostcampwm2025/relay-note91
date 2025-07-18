@@ -178,3 +178,40 @@ AI가 정해준 결과:
 - [Zapier](https://zapier.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_core_d1-ads&utm_term=zapier&utm_content=9216652&utm_ads_campaign_id=17613359697&utm_ads_adset_id=136156400857&utm_ads_ad_id=747659406169&gad_source=1&gad_campaignid=17613359697&gclid=CjwKCAjw4efDBhATEiwAaDBpbhOTT4-dpzbUZncKMKoqN3MNOsBfuB-0VuB1Y_YwV1NWiICCY9PmBRoCRooQAvD_BwE)
 - [2일차 ollama와 자동화 - shell 스크립트 활용](https://lucas.codesquad.kr/boostcamp-2025/course/u/%EC%B1%8C%EB%A6%B0%EC%A7%80---%EC%9B%B9-%ED%92%80%EC%8A%A4%ED%83%9D/Day2.-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%99%80-%EC%9E%90%EB%8F%99%ED%99%94/ollama%EC%99%80%20%EC%9E%90%EB%8F%99%ED%99%94)
 2. 추출한 대화를 다시 AI를 통해 정리합니다. (템플릿 활용)
+
+
+## 7/21 ~ 7/25 - Team 86
+
+### J035_김모세
+
+- 선택
+    - **퀘스트 2 : AI 튜터 - 나의 CS 이해도를 측정하는 맞춤형 퀴즈 생성**
+- 이유
+    1. CS 지식을 학습한 후, AI의 질문에 답변하며 놓친 부분들이 있는지 확인하는 시간을 갖고싶어서 선택했습니다.
+    2.  프롬프트를 최적화하며 다른 사람의 학습에도 도움이 되는 프롬프트를 만들어보고싶습니다. 
+
+### **J097_류건**
+
+- 선택
+    - **퀘스트 2: AI 튜터 - 나의 CS 이해도를 측정하는 맞춤형 퀴즈 생성**
+- 이유
+    - 그 날 학습한 내용을 복습하기 좋을 것 같음.
+    - 이 문제를 해결하기 위한 cs 지식과 연관지어 생각하기 좋음
+
+### J130_배용호
+
+- 선택
+    - **퀘스트 4: AI 비서 - 학습 기록 자동화 및 지식 아카이빙**
+- 이유
+    - 평소에도 AI와 질문하고 답변받은 것을 정리해달라고 요청하는 편이다.
+    - 하지만 쓰면서 느낌점은 모든 내용에 대해서 질문하고 대화하는게 아니라 정보가 부족함에 따라 AI의 환각 증상이 발생했다.
+    - 이에 대해서 항상 다시 체크하고 수기로 작성하였다.
+    - 미리 구상 문서를 지정해두면 해결책으로 이어질 수 있을것 같아서 선택했다.
+
+### J215_이지원
+
+- 선택
+    - **퀘스트 1: AI 질문마스터 -CS 지식 탐구를 위한 프롬프트 템플릿 개발**
+- 이유
+    1. CS 학습 시, AI 로부터 퀄리티 높은 대답을 얻기 위한 프롬프트 작성 방법을 배울 수 있을 것 같기 때문입니다.
+    2. 템플릿을 개발 해서 다음에도 간편하게 사용하고 싶습니다.
