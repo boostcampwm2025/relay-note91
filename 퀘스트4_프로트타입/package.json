@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@notionhq/client": "^4.0.1",
+    "dotenv": "^17.2.0"
+  }
+}
